@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![scence](./Bingwallpager)
+![scence](./BingWallpager.jpg)
 
 <!--
 **neochne/neochne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
