@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![scence](./01.webp)
+![scence](./test.gif)
 
 <!--
 **neochne/neochne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
